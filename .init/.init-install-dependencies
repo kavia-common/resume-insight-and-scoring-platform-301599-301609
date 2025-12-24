@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/resume-insight-and-scoring-platform-301599-301609/resume_analyzer_backend"
+}
